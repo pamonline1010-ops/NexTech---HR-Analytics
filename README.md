@@ -30,13 +30,13 @@ The company’s organizational structure was examined, operating across three ke
 - Sales: The commercial unit focused on revenue generation and client base retention.
 - Human Resources (HR): The support function responsible for personnel administration and staff development.
 
-![alt text](<Page 2 Overview.png>)
+![Overview](<Images/Page 2 Overview.png>)
 
 ## Audit of parameters pertaining to data collection
 
 ### Job Parameters
 
-![alt text](<Page 3 Job Parameter Analysis.png>)
+![Job Parameter Analysis](<Images/Page 3 Job Parameter Analysis.png>)
 
 **Overtime patterns**: 
 
@@ -52,7 +52,7 @@ The findings reinforce the established burnout hypothesis: employees working ove
 
 ### Compensation 
 
-![alt text](<Page 4 Comp Analysis.png>)
+![alt text](<Images/Page 4 Comp Analysis.png>)
 
 Attrition driven by financial considerations is most pronounced within the Research & Development function, where turnover remains elevated despite the presence of higher‑income outliers.
 
@@ -62,7 +62,7 @@ This pattern underscores the existence of a critical salary threshold. Employees
 
 ### Survey Result 
 
-![alt text](<Page 5 Survey Result Analysis.png>)
+![alt text](<Images/Page 5 Survey Result Analysis.png>)
 
 **Job Satisfaction, Environment Satisfaction and Work-life Balance** 
 
@@ -77,7 +77,7 @@ Extended time with same manager without growth signals disengagement
 
 ### Personal Parameters
 
-![alt text](<Page 6 Personal Parameter Analysis-1.png>)
+![alt text](<Images/Page 6 Personal Parameter Analysis.png>)
 
 **Commutation**: Attrition is notably higher among employees commuting long distances (>6 km daily), with 63.3% citing this as a reason for leaving.
 
@@ -86,7 +86,7 @@ Extended time with same manager without growth signals disengagement
 **Marital status also influences attrition**: single employees demonstrate a greater tendency to resign compared to their married or divorced counterparts.
 
 ### Employee Tenure
-![alt text](<Page 7 Tenure Analysis.png>)
+![alt text](<Images/Page 7 Tenure Analysis.png>)
 
 **Employee Experience & Retention Insight**
 
@@ -95,14 +95,14 @@ Employees with limited external exposure—specifically those who have not worke
 
 ### Attrition by Business Travel and Performance Rating
 
-![alt text](<Page 8 Business Travel and Perofmance Rating.png>)
+![alt text](<Images/Page 8 Business Travel and Perofmance Rating.png>)
 
 **Performance Rating**: Employees with an ‘Excellent’ performance rating exhibit a higher propensity to leave the organization, and this trend is consistently observed across all departments.
 
 **Business Travel**:In terms of business travel, the highest turnover is recorded among employees who travel infrequently. This pattern is also evident across departments, suggesting that limited travel engagement may correlate with increased attrition risk.
 
 ### % Salary Hike
-![alt text](<Page 9 Salary Hike.png>)
+![alt text](<Images/Page 9 Salary Hike.png>)
 
 Employees who received the least % salary hike (11-15%) left the organization than the ones who received more salary hike.
 
@@ -130,6 +130,7 @@ Employees who received the least % salary hike (11-15%) left the organization th
 - Create a "High Risk Cohort" watch-list updated from live Power BI data
 - Build leadership development track to reduce promotion bottlenecks
 - Report attrition metrics at board level on a quarterly basis
+
 
 
 
